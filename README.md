@@ -35,8 +35,9 @@ This project is a fullstack web application with a React.js frontend, a Node.js/
    cd exploreHub/backend
 
 2.Install backend dependencies
-  
+  ```sh
   npm install
+```
 
 3.Create a .env file in the backend directory and add your environment variables:
 
