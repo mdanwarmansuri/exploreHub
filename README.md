@@ -1,7 +1,7 @@
 ### ExploreHub
 
 ## Overview
-This project is a fullstack web application with a React.js frontend, a Node.js/Express backend, and a MySQL database. A web application where users can post famous places, make friends and see and interact to their posts.
+This project is a fullstack web application with a React.js frontend, a Node.js/Express backend, and a MySQL database. It is a web app where users can post famous places, make friends and see and interact to their posts.
 
 ## Table of Contents
 - [Overview](#overview)
