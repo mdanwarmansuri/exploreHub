@@ -40,36 +40,39 @@ This project is a fullstack web application with a React.js frontend, a Node.js/
 ```
 
 3.Create a .env file in the backend directory and add your environment variables:
-
+ ```sh
 MYSQL_HOST=your_database_host
 MYSQL_USER=your_database_user
 MYSQL_PASSWORD=your_database_password
 MYSQL_NAME=your_database_name
+```
 
 
 ## Frontend
 1.Navigate to the frontend directory:
-
+ ```sh
 cd ../frontend
+```
 
 2.Install frontend dependencies:
-
+ ```sh
 npm install
+```
 
 ## Running the Application
 
 ## Backend
 ### Start the backend server:
-
+ ```sh
 cd backend
 npm start
+```
 
 ## Frontend
 ### Start the frontend development server:
-
+ ```sh
 cd frontend
 npm start
+```
 
-Open your browser and navigate to
-
-http://localhost:3000.
+Open your browser and navigate to http://localhost:3000.
